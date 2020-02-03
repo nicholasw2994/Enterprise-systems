@@ -1,2 +1,2 @@
 # Enterprise-systems
-this is the read me file
+The python file is a simple helloworld script. When run it just prints out hello world in the terminal.
